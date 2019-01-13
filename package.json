@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/pdcoder/blockchain_begin.git"
+  },
+  "author": "prakash",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.2.5",
+    "mocha": "^5.2.0"
+  }
+}
